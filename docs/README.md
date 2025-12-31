@@ -26,8 +26,14 @@ Our projects follow five key stages:
 - **Project Manager (PM)**: Coordinates delivery, schedules, risk management, and communications
 - **Product Manager (PdM)**: Defines outcomes, prioritizes backlog, and measures success
 - **Developers**: Implement features, collaborate on design, and ensure testability
-- **QA/Testing**: Validate quality and acceptance criteria
+- **UX Designer**: Creates user-centered designs and validates usability
+- **Scrum Master**: Facilitates agile ceremonies and removes impediments
+- **Quality Assurance Lead**: Ensures quality through testing strategy and execution
+- **Business Analyst**: Documents requirements and bridges business and technical teams
+- **Customer Success Manager**: Ensures customer outcomes and represents the customer voice
 - **Stakeholders**: Provide inputs, approvals, and feedback
+
+For detailed role definitions, responsibilities, and collaboration patterns, see [Roles and Personas](octoacme-roles-and-personas.md).
 
 ### Team Values
 - Transparency in status and decision-making
@@ -40,6 +46,7 @@ Our projects follow five key stages:
 
 The following documents provide detailed guidance for each phase of project management at OctoAcme:
 
+### Core Process Documents
 - **[Project Management Overview](octoacme-project-management-overview.md)** — High-level introduction to OctoAcme's approach, roles, artifacts, and communication cadence
 - **[Project Initiation Guide](octoacme-project-initiation.md)** — Steps to validate and authorize work, create a project one-pager, and align stakeholders
 - **[Project Planning](octoacme-project-planning.md)** — Turn approved initiatives into actionable plans with backlog, estimates, and release timelines
@@ -47,7 +54,11 @@ The following documents provide detailed guidance for each phase of project mana
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)** — How to identify, manage, and communicate risks and dependencies
 - **[Release & Deployment Guide](octoacme-release-and-deployment.md)** — Standardized release process, deployment checklists, and rollback procedures
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** — Capture learnings and convert them into actionable improvements
-- **[Personas](octoacme-roles-and-personas.md)** — Detailed role definitions and responsibilities for developers, product managers, and project managers
+
+### Role and Team Resources
+- **[Personas](octoacme-roles-and-personas.md)** — Detailed role definitions and responsibilities for all team roles
+- **[RACI Matrix Template](octoacme-raci-matrix-template.md)** — Clarify accountability and decision-making for project activities
+- **[Onboarding Checklist](octoacme-onboarding-checklist.md)** — Structured onboarding guide for new team members by role
 
 ## How to Use These Docs
 
@@ -76,6 +87,31 @@ The following documents provide detailed guidance for each phase of project mana
 - **Understanding workflow**: Review Execution & Tracking for PR conventions, testing standards, and quality practices
 - **Planning participation**: Use the Planning doc to understand estimation and backlog refinement
 - **Contributing to process**: Participate in retrospectives and suggest improvements based on your experience
+
+### For UX Designers
+- **Design workflow**: Reference Execution & Tracking for design review and handoff processes
+- **Requirements clarity**: Work with Product Managers and Business Analysts using the Planning guide
+- **Collaboration**: Use the RACI Matrix to understand review and approval responsibilities for designs
+
+### For Scrum Masters
+- **Facilitating ceremonies**: Use Planning and Execution docs to guide sprint activities
+- **Team health**: Reference Retrospective guide for continuous improvement practices
+- **Process adherence**: Ensure team follows the standards outlined across all process docs
+
+### For Quality Assurance Leads
+- **Test strategy**: Use Planning doc to define test approach and Definition of Done
+- **Quality standards**: Reference Execution & Tracking for quality gates and testing practices
+- **Collaboration**: Work with Developers and Product Managers to ensure testable acceptance criteria
+
+### For Business Analysts
+- **Requirements documentation**: Use Planning and Initiation guides to structure requirements gathering
+- **Stakeholder alignment**: Reference Risk Management & Communication for stakeholder engagement patterns
+- **Traceability**: Use RACI Matrix and artifact ownership guidance to track requirements through delivery
+
+### For Customer Success Managers
+- **Customer feedback loop**: Use Initiation and Planning docs to channel customer inputs into roadmap
+- **Release communication**: Reference Release & Deployment guide for customer-facing release processes
+- **Voice of customer**: Collaborate with Product Managers using documented communication patterns
 
 ### Integration with Copilot Spaces
 - Add relevant process docs to `.copilot/` in your project repository to give Copilot Spaces context about OctoAcme standards
