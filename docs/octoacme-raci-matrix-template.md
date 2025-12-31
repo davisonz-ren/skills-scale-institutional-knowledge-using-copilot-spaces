@@ -22,6 +22,8 @@ The RACI matrix clarifies roles and responsibilities for project activities and 
 
 Below is a sample RACI matrix for common project activities. Customize based on your project needs.
 
+> **Note**: The table below is wide and optimized for desktop viewing. On smaller screens, you may need to scroll horizontally, or consider creating separate matrices for each project phase for easier reference.
+
 | Activity / Deliverable | Project Manager | Product Manager | Developer | UX Designer | QA Lead | Scrum Master | Business Analyst | Customer Success |
 |------------------------|----------------|-----------------|-----------|-------------|---------|--------------|------------------|------------------|
 | **Initiation Phase** |

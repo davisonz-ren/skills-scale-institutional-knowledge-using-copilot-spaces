@@ -176,17 +176,17 @@ This checklist ensures new team members are effectively onboarded to OctoAcme pr
 - [RACI Matrix Template](octoacme-raci-matrix-template.md)
 
 ### Communication Channels
-- Slack: [List relevant channels]
-- Email: [Distribution lists]
-- Team calendar: [Link to shared calendar]
-- Meeting notes: [Link to storage location]
+- Slack: #team-[project-name], #engineering, #product (customize for your team)
+- Email: [project-name]-team@octoacme.com (set up distribution lists)
+- Team calendar: [Add link to your team's shared calendar]
+- Meeting notes: [Add link to your team's documentation storage]
 
 ### Tools and Access
-- GitHub: [Organization/Repository links]
-- Project boards: [Link to boards]
-- Documentation: [Link to wiki or docs site]
-- Design tools: [Figma, Sketch, etc.]
-- Testing tools: [Test management systems]
+- GitHub: https://github.com/[your-org] (replace with your organization)
+- Project boards: [Add link to GitHub Projects or other project management tool]
+- Documentation: [Add link to your wiki, Confluence, or docs site]
+- Design tools: Figma/Sketch at [your-design-tool-url]
+- Testing tools: [Add links to test management systems like TestRail, Zephyr, etc.]
 
 ### Support
 - Onboarding buddy: [Name and contact]
