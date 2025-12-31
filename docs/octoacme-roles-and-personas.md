@@ -26,6 +26,13 @@ Developers design, build, test, and deliver software components. They collaborat
 - PR descriptions and code review comments
 - Technical design docs when needed
 
+### Interactions with Other Roles
+- **Product Managers**: Clarify requirements and acceptance criteria; provide technical feasibility input
+- **UX Designer**: Collaborate on implementation of designs; discuss technical constraints and possibilities
+- **QA Lead**: Write testable code; fix defects and improve test coverage
+- **Scrum Master**: Participate in agile ceremonies; raise impediments and blockers
+- **Business Analyst**: Ask questions about requirements; validate implementation meets business needs
+
 ---
 
 ## Product Managers
@@ -48,6 +55,14 @@ Product Managers define what should be built to deliver customer and business va
 - Weekly alignment with PM and engineering leads
 - Roadmap updates and stakeholder briefings
 - Acceptance criteria and feature specs
+
+### Interactions with Other Roles
+- **Developers**: Define requirements and priorities; validate technical feasibility and trade-offs
+- **UX Designer**: Collaborate on user research and design validation; ensure designs meet user needs
+- **QA Lead**: Define acceptance criteria; review test coverage and quality metrics
+- **Business Analyst**: Align on business requirements and user needs; prioritize feature requests
+- **Customer Success Manager**: Gather customer feedback; prioritize customer-critical features
+- **Project Managers**: Align on roadmap timelines; make scope and priority decisions
 
 ---
 
@@ -72,6 +87,14 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Weekly status updates and stakeholder reports
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
+
+### Interactions with Other Roles
+- **Product Managers**: Coordinate on roadmap delivery; align on priorities and resource allocation
+- **Developers**: Track progress and remove organizational blockers; facilitate coordination
+- **Scrum Master**: Align on team processes and impediments; coordinate cross-team dependencies
+- **QA Lead**: Monitor quality metrics; ensure testing is on track for releases
+- **Business Analyst**: Manage requirements scope; track stakeholder approvals
+- **Customer Success Manager**: Coordinate customer-critical deliveries; communicate release timelines
 
 ---
 
